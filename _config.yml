@@ -11,7 +11,9 @@ locale                   : "en-US"
 title                    : "Yufei Huang"
 title_separator          : "-"
 name                     : &name "Yufei Huang"
-description              : &description "Ph.D Student in Tsinghua University"
+description              : &description "Ph.D Student"
+description              : &description "Tsinghua University"
+description              : &description "Department of Computer Science and Technology"
 url                      : https://huangyf530.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huangyf530/huangyf530.github.io"
@@ -83,8 +85,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D Student in Tsinghua"
-  location         : "Beijing"
+  bio              : "Ph.D Student at Tsinghua"
+  location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
