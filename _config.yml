@@ -82,7 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yufei Huang"
+  name             : |
+      Yufei Huang <br>
+      黄宇飞
   avatar           : "profile.jpeg"
   bio              : "Ph.D Student at Tsinghua"
   location         : "Beijing, China"
