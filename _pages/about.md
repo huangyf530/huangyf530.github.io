@@ -22,6 +22,7 @@ Publications
 
 Honors
 ======
++ Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University, *2020.06*
 + China National Scholarship (Top 10% in each year) *2018.10*
 + Academic Progress Award in Tsinghua University *2017.12*
 + First Prize in National Physics Competition for Undergraduate in Some Region *2017.11*
