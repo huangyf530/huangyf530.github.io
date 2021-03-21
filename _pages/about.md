@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D student at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I obtained my bachelor degree [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html). My research interest lies in Questiong Answering and Pre-trained Language Model.
+I am currently a first-year Ph.D student at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I obtained my bachelor degree at [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html). My research interest lies in Questiong Answering and Pre-trained Language Model.
 
 Research Interest
 ======
@@ -22,7 +22,7 @@ Publications
 
 Honors
 ======
-+ Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University, *2020.06*
++ Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University *2020.06*
 + China National Scholarship (Top 10% in each year) *2018.10*
 + Academic Progress Award in Tsinghua University *2017.12*
 + First Prize in National Physics Competition for Undergraduate in Some Region *2017.11*
