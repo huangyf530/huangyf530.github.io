@@ -28,7 +28,7 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of EMNLP 2022</div><img src='images/fpt-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FPT: Improving Prompt Tuning Efficiency via Progressive Training](https://aclanthology.org/2022.findings-emnlp.511.pdf)
@@ -47,8 +47,8 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.08 - (now)*, Ph.D Student, Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2016.08 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tsinghua University, Beijing.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
