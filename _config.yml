@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Yufei Huang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D Candidate"
+description              : "Tsinghua University"
+description              : "Department of Computer Science and Technology"
 repository               : "huangyf530/huangyf530.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yufei Huang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Yufei Huang<br>黄宇飞"
+  avatar           : "images/profile.jpeg"
+  bio              : "Ph.D Candidate at Tsinghua"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : huangyf530 # e.g., "github username"
+  github           : "huangyf530" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "yufei_huang1999"
   vine             :
   weibo            :
   xing             :
