@@ -47,7 +47,7 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2020.08 - (now)*, Ph.D Student, Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2020.08 - now*, Ph.D Student, Department of Computer Science and Technology, Tsinghua University, Beijing.
 - *2016.08 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tsinghua University, Beijing.
 
 # 💬 Invited Talks
