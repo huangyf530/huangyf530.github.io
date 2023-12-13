@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fourth-year Ph.D candidate at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I obtained my bachelor degree at [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest lies in Efficient Method for NLP. I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ucNX3NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -31,12 +31,12 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FPT: Improving Prompt Tuning Efficiency via Progressive Training](https://aclanthology.org/2022.findings-emnlp.511.pdf)
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Yufei Huang\***, Yujia Qin\*, Huadong Wang, Yichun Yin, Maosong Sun, Zhiyuan Liu, Qun Liu
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ucNX3NoAAAAJ&citation_for_view=ucNX3NoAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
-- In this work, we proppose Fast Prompt Tuning (FPT), which starts by conducting PT using a small-scale partial PLM, then progressively expands its depth and width until the full-model size. By using FPT, we can save over 30% training computations while achieving comparable performance with vanilla Prompt Tuning. You can find more details in our paper.
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 

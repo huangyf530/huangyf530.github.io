@@ -7,9 +7,7 @@
 
 # Site Settings
 title                    : "Yufei Huang"
-description              : "Ph.D Candidate"
-description              : "Tsinghua University"
-description              : "Department of Computer Science and Technology"
+description              : "Ph.D Candidate at Tsinghua University. Department of Computer Science and Technology. Focus on NLP and LLM."
 repository               : "huangyf530/huangyf530.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yufei Huang<br>黄宇飞"
   avatar           : "images/profile.jpeg"
-  bio              : "Ph.D Candidate at Tsinghua"
+  bio              : "Tsinghua Univerisity"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
