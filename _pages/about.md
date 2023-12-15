@@ -40,7 +40,7 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 **Yufei Huang\***, Yujia Qin\*, Huadong Wang, Yichun Yin, Maosong Sun, Zhiyuan Liu, Qun Liu
 
-[**Project**](https://github.com/thunlp/FastPromptTuning) <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://github.com/thunlp/FastPromptTuning)<strong> | </strong><a href="https://github.com/thunlp/FastPromptTuning"><img src="https://img.shields.io/github/stars/thunlp/FastPromptTuning?style=social&amp;label=FPT Stars" alt=""></a> <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
 - In this work, we proppose Fast Prompt Tuning (FPT), which can save over 30% training computations while achieving comparable performance with vanilla Prompt Tuning.
 </div>
 </div>
