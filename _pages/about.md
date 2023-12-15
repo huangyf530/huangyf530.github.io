@@ -23,36 +23,39 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12*: &nbsp;🎉 One paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of EMNLP 2022</div><img src='images/fpt-model.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Findings of EMNLP 2022</div>
+      <img src='images/fpt-model.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[FPT: Improving Prompt Tuning Efficiency via Progressive Training](https://aclanthology.org/2022.findings-emnlp.511.pdf)
+[FPT: Improving Prompt Tuning Efficiency via Progressive Training](https://aclanthology.org/2022.findings-emnlp.511/)
 
 **Yufei Huang\***, Yujia Qin\*, Huadong Wang, Yichun Yin, Maosong Sun, Zhiyuan Liu, Qun Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ucNX3NoAAAAJ&citation_for_view=ucNX3NoAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
-- In this work, we proppose Fast Prompt Tuning (FPT), which starts by conducting PT using a small-scale partial PLM, then progressively expands its depth and width until the full-model size. By using FPT, we can save over 30% training computations while achieving comparable performance with vanilla Prompt Tuning. You can find more details in our paper.
+[**Project**](https://github.com/thunlp/FastPromptTuning) <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
+- In this work, we proppose Fast Prompt Tuning (FPT), which can save over 30% training computations while achieving comparable performance with vanilla Prompt Tuning.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- <code class="small-badge">ArXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.
+- <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun
+- <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.06* Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University. 
+- *2018.10* China National Scholarship (Top 5% each year).
+- *2017.12* Academic Progress Award in Tsinghua University.
+- *2016.10* Second-class Scholarship for Freshmen of Tsinghua University (Top 10 in every province).
 
 # 📖 Educations
-- *2020.08 - now*, Ph.D Student, Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2023.04 - now*, Ph.D Candidate, Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2020.08 - 2023.04*, Ph.D Student, Department of Computer Science and Technology, Tsinghua University, Beijing.
 - *2016.08 - 2020.06*, Undergraduate, Department of Computer Science and Technology, Tsinghua University, Beijing.
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

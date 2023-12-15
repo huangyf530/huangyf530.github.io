@@ -107,3 +107,17 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.small-badge {
+    padding-left: .1em;
+    padding-right: .1em;
+    position: relative;
+    margin-top: .5em;
+    margin-left: -.5em;
+    margin-right: .5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .6785em;
+    border: 0px solid #f2f3f3;
+    border-radius: 0;
+}

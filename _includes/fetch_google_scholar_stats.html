@@ -7,7 +7,10 @@
         {% endif %}
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
+            var total_cit_ele = document.getElementById('total_cit')
+            if (total_cit_ele !== null) {
+                total_cit_ele.innerHTML = totalCitation;
+            }
             var citationEles = document.getElementsByClassName('show_paper_citations')
             Array.prototype.forEach.call(citationEles, element => {
                 var paperId = element.getAttribute('data')
