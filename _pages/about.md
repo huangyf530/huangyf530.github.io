@@ -23,9 +23,28 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175.pdf).
 - *2022.12*: &nbsp;🎉 One paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2024.02</div>
+      <img src='images/unified-view-grokking.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Unified View of Grokking, Double Descent and Emergent Abilities: A
+Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
+
+**Yufei Huang**, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
+
+- We propose a comprehensive framework to provide a unified view of grokking, double descent and emergent abilities, focusing on the competition between memorization and generalization circuis in neural network.
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -45,7 +64,7 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 </div>
 </div>
 
-- <code class="small-badge">ArXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.
+- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.
 - <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun
 - <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma
 
