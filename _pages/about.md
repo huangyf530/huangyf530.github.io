@@ -42,6 +42,8 @@ Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
 
 **Yufei Huang**, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
 
+- <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+
 - We propose a comprehensive framework to provide a unified view of grokking, double descent and emergent abilities, focusing on the competition between memorization and generalization circuis in neural network.
 </div>
 </div>
@@ -59,14 +61,14 @@ Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
 
 **Yufei Huang\***, Yujia Qin\*, Huadong Wang, Yichun Yin, Maosong Sun, Zhiyuan Liu, Qun Liu
 
-[**Project**](https://github.com/thunlp/FastPromptTuning)<strong> | </strong><a href="https://github.com/thunlp/FastPromptTuning"><img src="https://img.shields.io/github/stars/thunlp/FastPromptTuning?style=social&amp;label=FPT Stars" alt=""></a> <strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](https://github.com/thunlp/FastPromptTuning)<strong> | </strong><a href="https://github.com/thunlp/FastPromptTuning"><img src="https://img.shields.io/github/stars/thunlp/FastPromptTuning?style=social&amp;label=FPT Stars" alt=""></a><strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:zYLM7Y9cAGgC'></span></strong>
 - In this work, we proppose Fast Prompt Tuning (FPT), which can save over 30% training computations while achieving comparable performance with vanilla Prompt Tuning.
 </div>
 </div>
 
-- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.
-- <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun
-- <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma
+- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:9yKSN-GCB0IC'></span></strong>
+- <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u-x6o8ySG0sC'></span></strong>
+- <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 # 🎖 Honors and Awards
 - *2020.06* Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University. 

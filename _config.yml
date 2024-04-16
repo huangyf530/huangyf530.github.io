@@ -9,7 +9,7 @@
 title                    : "Yufei Huang"
 description              : "Ph.D Candidate at Department of Computer Science and Technology, Tsinghua University. Focus on NLP and LLM."
 repository               : "huangyf530/huangyf530.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      : "G-L0LFNPC3KE" # get google_analytics_id from https://analytics.google.com/analytics/
