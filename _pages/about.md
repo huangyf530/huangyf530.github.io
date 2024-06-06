@@ -23,10 +23,28 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉 One paper (FastFiD) is accepted by ACL 2024. See you in Thailand!
 - *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175.pdf).
 - *2022.12*: &nbsp;🎉 One paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2024</div>
+      <img src='images/fastfid.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection
+
+**Yufei Huang**, Xu Han, Maosong Sun
+
+- In this work, we propose a two-stage training method called FastFiD to address the inference efficiency problem in open-domain question answering. By training a sentence selection head on top of the encoder's output, we can compress the context length for the decoder to generate the final answer. Our experiments on three commonly used datasets (Natural Questions, TriviaQA, and ASQA) demonstrate that our method can enhance inference speed by **2.3X-5.7X** while maintaining the model’s performance. Further experiments with LLaMa2-7B also verify its adaptability to decoder-only models, indicating its potential to accelerate current large language models (LLMs) and more general retrieval-augmented generation (RAG) systems.
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -37,8 +55,7 @@ My research interest lies in Efficient Method for NLP. I have published some pap
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Unified View of Grokking, Double Descent and Emergent Abilities: A
-Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
+[Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
 
 **Yufei Huang**, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
 
