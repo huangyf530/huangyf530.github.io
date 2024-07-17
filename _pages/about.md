@@ -23,8 +23,9 @@ My research interest lies in Efficient Method for NLP. I have published some pap
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉 [Our work about training dynamics](https://arxiv.org/pdf/2402.15175) is accepted by COLM 2024. See you in Philadelphia!
 - *2024.05*: &nbsp;🎉 One paper (FastFiD) is accepted by ACL 2024. See you in Thailand!
-- *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175.pdf).
+- *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175).
 - *2022.12*: &nbsp;🎉 One paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
 # 📝 Publications
@@ -49,13 +50,13 @@ FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sent
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2024.02</div>
+      <div class="badge">COLM 2024</div>
       <img src='images/unified-view-grokking.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175.pdf)
+[Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175)
 
 **Yufei Huang**, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
 
@@ -88,7 +89,10 @@ FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sent
 - <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 # 🎖 Honors and Awards
+- *2022.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
+- *2021.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 - *2020.06* Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University. 
+- *2019.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 - *2018.10* China National Scholarship (Top 5% each year).
 - *2017.12* Academic Progress Award in Tsinghua University.
 - *2016.10* Second-class Scholarship for Freshmen of Tsinghua University (Top 10 in every province).
