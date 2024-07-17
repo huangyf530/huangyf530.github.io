@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D candidate at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I obtained my bachelor degree at [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html).
 
-My research interest lies in Efficient Method for NLP. I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ucNX3NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interest lies in Efficient Method for NLP and LLM. I have published some papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=ucNX3NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
