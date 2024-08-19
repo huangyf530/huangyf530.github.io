@@ -24,7 +24,7 @@ My research interest lies in Efficient Method for NLP and LLM. I have published 
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 [Our work about training dynamics](https://arxiv.org/pdf/2402.15175) is accepted by COLM 2024. See you in Philadelphia!
-- *2024.05*: &nbsp;🎉 One paper (FastFiD) is accepted by ACL 2024. See you in Thailand!
+- *2024.05*: &nbsp;🎉 One paper ([FastFiD](https://arxiv.org/abs/2408.06333)) is accepted by ACL 2024. See you in Thailand!
 - *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175).
 - *2022.12*: &nbsp;🎉 One paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
@@ -39,7 +39,9 @@ My research interest lies in Efficient Method for NLP and LLM. I have published 
   </div>
   <div class='paper-box-text' markdown="1">
 
-FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection
+[FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection](https://arxiv.org/abs/2408.06333)
+
+[**Project**](https://github.com/thunlp/FastFiD)<strong> | </strong><a href="https://github.com/thunlp/FastFiD"><img src="https://img.shields.io/github/stars/thunlp/FastPromptTuning?style=social&amp;label=FastFiD Stars" alt=""></a><strong><strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 **Yufei Huang**, Xu Han, Maosong Sun
 
