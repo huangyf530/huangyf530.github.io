@@ -86,7 +86,7 @@ My research interest lies in Computational Linguistics. I have published some pa
 </div>
 </div>
 
-- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:9yKSN-GCB0IC'></span></strong>
+- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models]() Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Xuanhe Zhou, **Yufei Huang**, Chaojun Xiao and Other 33 authors.<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:Y0pCki6q_DkC'></span></strong>
 - <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u5HHmVD_uO8C'></span></strong>
 
