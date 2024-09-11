@@ -41,7 +41,7 @@ My research interest lies in Computational Linguistics. I have published some pa
 
 [FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection](https://arxiv.org/abs/2408.06333)
 
-[**Project**](https://github.com/thunlp/FastFiD)<strong> | </strong><a href="https://github.com/thunlp/FastFiD"><img src="https://img.shields.io/github/stars/thunlp/FastFiD?style=social&amp;label=FastFiD Stars" alt=""></a><strong><strong><span class='show_paper_citations' data='ucNX3NoAAAAJ:W7OEmFMy1HYC'></span></strong>
+[**Project**](https://github.com/thunlp/FastFiD)<strong> | </strong><a href="https://github.com/thunlp/FastFiD"><img src="https://img.shields.io/github/stars/thunlp/FastFiD?style=social&amp;label=FastFiD Stars" alt=""></a><strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 **Yufei Huang**, Xu Han, Maosong Sun
 
