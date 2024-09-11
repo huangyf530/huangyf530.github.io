@@ -45,7 +45,7 @@ My research interest lies in Computational Linguistics. I have published some pa
 
 **Yufei Huang**, Xu Han, Maosong Sun
 
-- In this work, we propose a two-stage training method called FastFiD to address the inference efficiency problem in ODQA. With FastFiD, we can enhance inference speed by **2.3X-5.7X** while maintaining model’s performance on three commonly used datasets (Natural Questions, TriviaQA, and ASQA). Further experiments with LLaMa2-7B also verify its adaptability to decoder-only models, indicating its potential to accelerate current LLM and general RAG systems.
+- We propose a two-stage training method called FastFiD to address the inference efficiency problem in RAG system. With FastFiD, we can enhance inference speed by **2.3X-5.7X** while maintaining performance on three commonly used datasets (Natural Questions, TriviaQA, and ASQA). Further experiments with LLaMa2-7B also verify its adaptability to decoder-only models, indicating its potential to accelerate current LLM and general RAG systems.
 </div>
 </div>
 
@@ -58,7 +58,7 @@ My research interest lies in Computational Linguistics. I have published some pa
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Unified View of Grokking, Double Descent and Emergent Abilities: A Perspective from Circuits Competition](https://arxiv.org/pdf/2402.15175)
+[Unified View of Grokking, Double Descent and Emergent Abilities: A Comprehensive Study on Algorithm Task](https://openreview.net/forum?id=cG1EbmWiSs)
 
 **Yufei Huang**, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
 
