@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D candidate at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). I obtained my bachelor degree at [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html).
+I am currently a Ph.D candidate at [TsinghuaNLP](https://nlp.csai.tsinghua.edu.cn) supervised by Prof. [Maosong Sun](https://nlp.csai.tsinghua.edu.cn/staff/sms/). Before this, I obtained my bachelor degree at [CST@THU](http://www.cs.tsinghua.edu.cn/publish/csen/index.html).
 
-My current research interest lies in efficient method of LLM. Specifically, I am interested in how to make the training and inference process more efficient and how to better understand LLM's training dynamics. During my PhD, I have interned at [ByteDance Seed Team](https://team.doubao.com/zh/direction/llm) to make research about LLM Pretrain. I have published some papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=ucNX3NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My current research interest lies in efficient method of LLM. Specifically, I am interested in how to make the training and inference process more efficient and how to better understand LLM's training dynamics. During my PhD, I have interned at [ByteDance Seed-LLM](https://team.doubao.com/zh/direction/llm) to make research about LLM Pretrain. I have published some papers at the top international conferences with total <a href='https://scholar.google.com/citations?user=ucNX3NoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 # 🔥 News
@@ -46,7 +46,7 @@ My current research interest lies in efficient method of LLM. Specifically, I am
 
 **Yufei Huang**, Xu Han, Maosong Sun
 
-- We propose a two-stage training method called FastFiD to address the inference efficiency problem in RAG system. With FastFiD, we can enhance inference speed by **2.3X-5.7X** while maintaining performance on three commonly used datasets (Natural Questions, TriviaQA, and ASQA). Further experiments with LLaMa2-7B also verify its adaptability to decoder-only models, indicating its potential to accelerate current LLM and general RAG systems.
+- We propose a two-stage training method called FastFiD to address the inference efficiency problem in RAG system. With FastFiD, we can enhance inference speed by **2.3X-5.7X** while maintaining performance on three commonly used datasets (NQ, TriviaQA, and ASQA).
 </div>
 </div>
 
@@ -93,10 +93,11 @@ My current research interest lies in efficient method of LLM. Specifically, I am
 - <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u5HHmVD_uO8C'></span></strong>
   
 # 💻 Internships
-- *2024.05 - 2024.10* [ByteDance Seed LLM](https://team.doubao.com/zh/direction/llm), Beijing, China.
+- *2024.06 - 2024.10* [ByteDance Seed-LLM](https://team.doubao.com/zh/direction/llm), Beijing, China.
+- *2023.02 - 2024.02* [DeepLang AI](https://deeplang.ai/), Beijing, China.
 
 # 🎖 Honors and Awards
-- *2022.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
+- *2023.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 - *2021.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 - *2020.06* Excellent Graduate (Bachelor), Department of Computer Science and Technology, Tsinghua University. 
 - *2019.10* Comprehensive Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
