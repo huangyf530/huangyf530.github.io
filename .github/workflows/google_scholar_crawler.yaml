@@ -13,11 +13,17 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-    - name: Run
+    - name: Install Python Requirements
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
+    - name: Get Google Scholar Results
+      run: |
         python3 main.py
+      env: 
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Push to Deploy
+      run: |
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
@@ -25,5 +31,3 @@ jobs:
         git add *.json
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
