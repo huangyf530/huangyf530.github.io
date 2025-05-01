@@ -27,6 +27,8 @@ jobs:
     - name: Push to Deploy
       run: |
         cd ./google_scholar_crawler/results
+        echo ${GITHUB_ACTOR}
+        echo ${GITHUB_REPOSITORY}
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
