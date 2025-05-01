@@ -23,6 +23,7 @@ jobs:
         python3 main.py
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
     - name: Push to Deploy
       run: |
         cd ./google_scholar_crawler/results
