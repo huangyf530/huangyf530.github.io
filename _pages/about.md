@@ -27,7 +27,6 @@ My current research interest lies in efficient method of LLM. Specifically, I am
 - *2024.05*: &nbsp;🎉 One first-author paper ([FastFiD](https://arxiv.org/abs/2408.06333)) is accepted by ACL 2024. See you in Thailand!
 - *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175).
 - *2023.04*: &nbsp;🎉 Successfully passed my PhD proposal defense and become a PhD candidate!
-- *2022.12*: &nbsp;🎉 One first-author paper ([FastPromptTuning](https://aclanthology.org/2022.findings-emnlp.511/)) is accepted by Findings of EMNLP 2022
 
 # 📝 Publications
 
@@ -87,8 +86,9 @@ My current research interest lies in efficient method of LLM. Specifically, I am
 </div>
 </div>
 
+- <code class="small-badge">ICLR 2025 Workshop World Models</code>[ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer](https://arxiv.org/abs/2412.07720) Jinyi Hu, Shengding Hu, Yuxuan Song, **Yufei Huang**, Mingxuan Wang, Hao Zhou, Zhiyuan Liu, Wei-Ying Ma, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:_FxGoFyzp5QC'></span></strong>
 - <code class="small-badge">arXiv 2024.09</code>[Configurable Foundation Models: Building LLMs from a Modular Perspective](https://arxiv.org/abs/2409.02877) Chaojun Xiao, Zhengyan Zhang, Chenyang Song, Dazhi Jiang, Feng Yao, Xu Han, Xiaozhi Wang, Shuo Wang, **Yufei Huang**, Guanyu Lin, Yingfa Chen, Weilin Zhao, Yuge Tu, Zexuan Zhong, Ao Zhang, Chenglei Si, Khai Hao Moo, Chenyang Zhao, Huimin Chen, Yankai Lin, Zhiyuan Liu, Jingbo Shang, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:eQOLeE2rZwMC'></span></strong>
-- <code class="small-badge">arXiv 2023.04</code>[Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, **Yufei Huang**, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:Y0pCki6q_DkC'></span></strong>
+- <code class="small-badge">ACM Comput. Surv.</code>[Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354) Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, **Yufei Huang**, Chaojun Xiao, Chi Han, Yi Ren Fung, Yusheng Su, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:Y0pCki6q_DkC'></span></strong>
 - <code class="small-badge">NAACL 2021</code>[TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference](https://aclanthology.org/2021.naacl-main.463/) Deming Ye, Yankai Lin, **Yufei Huang**, Maosong Sun<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u-x6o8ySG0sC'></span></strong>
 - <code class="small-badge">CIKM 2019</code>[Improving Web Image Search with Contextual Information](https://dl.acm.org/doi/abs/10.1145/3357384.3358011) Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, **Yufei Huang**, Min Zhang, Shaoming Ma<strong> | <span class='show_paper_citations' data='ucNX3NoAAAAJ:u5HHmVD_uO8C'></span></strong>
   
