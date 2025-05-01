@@ -23,7 +23,7 @@ My current research interest lies in efficient method of LLM. Specifically, I am
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 [Our work about training dynamics](https://arxiv.org/pdf/2402.15175) is accepted by COLM 2024. See you in Philadelphia!
+- *2024.07*: &nbsp;🎉 [Our work about training dynamics](https://arxiv.org/pdf/2402.15175) is accepted by COLM 2024. See you in Philadelphia!
 - *2024.05*: &nbsp;🎉 One first-author paper ([FastFiD](https://arxiv.org/abs/2408.06333)) is accepted by ACL 2024. See you in Thailand!
 - *2024.02*: &nbsp;🎉 We release an [elegant work on training dynamics](https://arxiv.org/pdf/2402.15175).
 - *2023.04*: &nbsp;🎉 Successfully passed my PhD proposal defense and become a PhD candidate!
