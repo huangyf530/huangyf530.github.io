@@ -1,0 +1,265 @@
+{
+  "updated": "2026-09-05 11:26:15.526481",
+  "name": "Yufei Huang",
+  "affiliations": "Tsinghua University",
+  "email": "Verified email at mails.tsinghua.edu.cn",
+  "website": "https://huangyf530.github.io/",
+  "interests": [
+    {
+      "title": "Natural Language Processing",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+    }
+  ],
+  "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ucNX3NoAAAAJ&citpid=1",
+  "citations": {
+    "table": [
+      {
+        "citations": {
+          "all": 1083,
+          "since_2021": 1077
+        }
+      },
+      {
+        "h_index": {
+          "all": 9,
+          "since_2021": 9
+        }
+      },
+      {
+        "i10_index": {
+          "all": 9,
+          "since_2021": 9
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2020,
+        "citations": 5
+      },
+      {
+        "year": 2021,
+        "citations": 4
+      },
+      {
+        "year": 2022,
+        "citations": 20
+      },
+      {
+        "year": 2023,
+        "citations": 78
+      },
+      {
+        "year": 2024,
+        "citations": 217
+      },
+      {
+        "year": 2025,
+        "citations": 367
+      },
+      {
+        "year": 2026,
+        "citations": 388
+      }
+    ]
+  },
+  "citedby": 1083,
+  "publications": {
+    "ucNX3NoAAAAJ:Y0pCki6q_DkC": {
+      "title": "Tool learning with foundation models",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:Y0pCki6q_DkC",
+      "citation_id": "ucNX3NoAAAAJ:Y0pCki6q_DkC",
+      "authors": "Y Qin, S Hu, Y Lin, W Chen, N Ding, G Cui, Z Zeng, Y Huang, C Xiao, ...",
+      "publication": "ACM Computing Surveys 57, 1-40, 2024",
+      "cited_by": {
+        "value": 741,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8893045473530484159,16550927198021031972,3054220134347558300",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8893045473530484159%2C16550927198021031972%2C3054220134347558300&engine=google_scholar&hl=en",
+        "cites_id": "8893045473530484159,16550927198021031972,3054220134347558300"
+      },
+      "year": "2024",
+      "num_citations": 741
+    },
+    "ucNX3NoAAAAJ:u-x6o8ySG0sC": {
+      "title": "Tr-bert: Dynamic token reduction for accelerating bert inference",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:u-x6o8ySG0sC",
+      "citation_id": "ucNX3NoAAAAJ:u-x6o8ySG0sC",
+      "authors": "D Ye, Y Lin, Y Huang, M Sun",
+      "publication": "NAACL 2021, 5798–5809, 2021",
+      "cited_by": {
+        "value": 97,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9197560692248211370",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9197560692248211370&engine=google_scholar&hl=en",
+        "cites_id": "9197560692248211370"
+      },
+      "year": "2021",
+      "num_citations": 97
+    },
+    "ucNX3NoAAAAJ:_FxGoFyzp5QC": {
+      "title": "Acdit: Interpolating autoregressive conditional modeling and diffusion transformer",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "ucNX3NoAAAAJ:_FxGoFyzp5QC",
+      "authors": "J Hu, S Hu, Y Song, Y Huang, M Wang, H Zhou, Z Liu, WY Ma, M Sun",
+      "publication": "arXiv preprint arXiv:2412.07720, 2024",
+      "cited_by": {
+        "value": 39,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16193413699386050540",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16193413699386050540&engine=google_scholar&hl=en",
+        "cites_id": "16193413699386050540"
+      },
+      "year": "2024",
+      "num_citations": 39
+    },
+    "ucNX3NoAAAAJ:YsMSGLbcyi4C": {
+      "title": "Unified view of grokking, double descent and emergent abilities: A comprehensive study on algorithm task",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "ucNX3NoAAAAJ:YsMSGLbcyi4C",
+      "authors": "Y Huang, S Hu, X Han, Z Liu, M Sun",
+      "publication": "First Conference on Language Modeling, 2024",
+      "cited_by": {
+        "value": 39,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14283044418138770599,5337308385033233815",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14283044418138770599%2C5337308385033233815&engine=google_scholar&hl=en",
+        "cites_id": "14283044418138770599,5337308385033233815"
+      },
+      "year": "2024",
+      "num_citations": 39
+    },
+    "ucNX3NoAAAAJ:eQOLeE2rZwMC": {
+      "title": "Configurable foundation models: Building llms from a modular perspective",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "ucNX3NoAAAAJ:eQOLeE2rZwMC",
+      "authors": "C Xiao, Z Zhang, C Song, D Jiang, F Yao, X Han, X Wang, S Wang, ...",
+      "publication": "arXiv preprint arXiv:2409.02877, 2024",
+      "cited_by": {
+        "value": 38,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=407360329436268422",
+        "serpapi_link": "https://serpapi.com/search.json?cites=407360329436268422&engine=google_scholar&hl=en",
+        "cites_id": "407360329436268422"
+      },
+      "year": "2024",
+      "num_citations": 38
+    },
+    "ucNX3NoAAAAJ:hqOjcs7Dif8C": {
+      "title": "Hunyuan-turbos: Advancing large language models through mamba-transformer synergy and adaptive chain-of-thought",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "ucNX3NoAAAAJ:hqOjcs7Dif8C",
+      "authors": "TH Team, A Liu, B Zhou, C Xu, C Zhou, CC Zhang, C Xu, C Wang, D Wu, ...",
+      "publication": "arXiv preprint arXiv:2505.15431, 2025",
+      "cited_by": {
+        "value": 33,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10581156881835921720",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10581156881835921720&engine=google_scholar&hl=en",
+        "cites_id": "10581156881835921720"
+      },
+      "year": "2025",
+      "num_citations": 33
+    },
+    "ucNX3NoAAAAJ:Se3iqnhoufwC": {
+      "title": "Document Segmentation Matters for Retrieval-Augmented Generation",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:Se3iqnhoufwC",
+      "citation_id": "ucNX3NoAAAAJ:Se3iqnhoufwC",
+      "authors": "Z Wang, C Gao, C Xiao, Y Huang, S Si, K Luo, Y Bai, W Li, T Duan, C Lv, ...",
+      "publication": "Findings of ACL 2025, 8063-8075, 2025",
+      "cited_by": {
+        "value": 31,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11748879237042454756",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11748879237042454756&engine=google_scholar&hl=en",
+        "cites_id": "11748879237042454756"
+      },
+      "year": "2025",
+      "num_citations": 31
+    },
+    "ucNX3NoAAAAJ:u5HHmVD_uO8C": {
+      "title": "Improving web image search with contextual information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "ucNX3NoAAAAJ:u5HHmVD_uO8C",
+      "authors": "X Xie, J Mao, Y Liu, M de Rijke, Q Ai, Y Huang, M Zhang, S Ma",
+      "publication": "CIKM 2019, 1683-1692, 2019",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3457897628946416507",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3457897628946416507&engine=google_scholar&hl=en",
+        "cites_id": "3457897628946416507"
+      },
+      "year": "2019",
+      "num_citations": 24
+    },
+    "ucNX3NoAAAAJ:roLk4NBRz8UC": {
+      "title": "Teaching large language models to maintain contextual faithfulness via synthetic tasks and reinforcement learning",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:roLk4NBRz8UC",
+      "citation_id": "ucNX3NoAAAAJ:roLk4NBRz8UC",
+      "authors": "S Si, H Zhao, C Gao, Y Bai, Z Wang, B Gao, K Luo, W Li, Y Huang, ...",
+      "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (39), 33001 …, 2026",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16745441949700311712",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16745441949700311712&engine=google_scholar&hl=en",
+        "cites_id": "16745441949700311712"
+      },
+      "year": "2026",
+      "num_citations": 19
+    },
+    "ucNX3NoAAAAJ:W7OEmFMy1HYC": {
+      "title": "FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "ucNX3NoAAAAJ:W7OEmFMy1HYC",
+      "authors": "Y Huang, X Han, M Sun",
+      "publication": "ACL 2024, 6262–6276, 2024",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14628262882665523064",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14628262882665523064&engine=google_scholar&hl=en",
+        "cites_id": "14628262882665523064"
+      },
+      "year": "2024",
+      "num_citations": 8
+    },
+    "ucNX3NoAAAAJ:LkGwnXOMwfcC": {
+      "title": "Gltw: Joint improved graph transformer and llm via three-word language for knowledge graph completion",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "ucNX3NoAAAAJ:LkGwnXOMwfcC",
+      "authors": "K Luo, Y Bai, C Gao, S Si, Y Shen, Z Liu, Z Wang, C Kong, W Li, Y Huang, ...",
+      "publication": "Findings of ACL 2025, 11328–11344, 2025",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11822691531736982857",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11822691531736982857&engine=google_scholar&hl=en",
+        "cites_id": "11822691531736982857"
+      },
+      "year": "2025",
+      "num_citations": 7
+    },
+    "ucNX3NoAAAAJ:zYLM7Y9cAGgC": {
+      "title": "FPT: Improving Prompt Tuning Efficiency via Progressive Training",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "ucNX3NoAAAAJ:zYLM7Y9cAGgC",
+      "authors": "Y Huang, Y Qin, H Wang, Y Yin, M Sun, Z Liu, Q Liu",
+      "publication": "Findings of EMNLP 2022, 6877–6887, 2022",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15564782424571397722",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15564782424571397722&engine=google_scholar&hl=en",
+        "cites_id": "15564782424571397722"
+      },
+      "year": "2022",
+      "num_citations": 6
+    },
+    "ucNX3NoAAAAJ:UebtZRa9Y70C": {
+      "title": "Zero Reinforcement Learning Towards General Domains",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ucNX3NoAAAAJ&pagesize=100&citation_for_view=ucNX3NoAAAAJ:UebtZRa9Y70C",
+      "citation_id": "ucNX3NoAAAAJ:UebtZRa9Y70C",
+      "authors": "Y Zeng, Y Huang, C Xu, Q Sun, J Yan, G Xu, T Yang, F Lian",
+      "publication": "arXiv preprint arXiv:2510.25528, 2025",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18443556998626770836",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18443556998626770836&engine=google_scholar&hl=en",
+        "cites_id": "18443556998626770836"
+      },
+      "year": "2025",
+      "num_citations": 1
+    }
+  }
+}
